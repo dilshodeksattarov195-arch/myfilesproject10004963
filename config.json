@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesalculate",
+        "uuid": 12060090,
+        "checksum": "hgy2vp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
